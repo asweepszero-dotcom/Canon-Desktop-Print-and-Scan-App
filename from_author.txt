@@ -1,0 +1,12 @@
+Hello everyone!
+I was looking for an app to use my Canon Pixma G3410 printer
+but didn't found any proper app for Windows. Only for Android.
+So I decided to write my own on Python. It's open sourse,
+so feel free to change anything you want.
+Maybe someone else will find this useful.
+It can scan as JPEG, scan as PDF, Print JPEG and print PDF.
+Enjoy 
+
+P.S. pyw file is open sourse code of the app, and exe file is already built app
+
+Thanks for attention
