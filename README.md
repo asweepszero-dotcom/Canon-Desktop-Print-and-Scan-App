@@ -1,4 +1,7 @@
 # Canon Desktop — Print & Scan
+# Canon Desktop — Free Canon PIXMA Printer & Scanner Software for Windows
+
+Canon Desktop is a free Windows application for scanning documents, saving scans as PDF files, and printing documents using compatible Canon printers and scanners.
 
 A lightweight desktop application for Canon printers and scanners.
 
